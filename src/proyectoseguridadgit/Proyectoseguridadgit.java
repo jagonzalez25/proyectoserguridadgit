@@ -17,7 +17,11 @@ public class Proyectoseguridadgit {
     public static void main(String[] args) {
         // TODO code application logic here
         
-        System.out.println("Hola Mudno!!");
+        System.out.println("Hola Mundo!!");
+        
+        System.out.println("Hola ESCOM!!");
+        int x;
+        int[] vector;
     }
     
 }
