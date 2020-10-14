@@ -5,6 +5,8 @@
  */
 package proyectoseguridadgit;
 
+import java.util.List;
+
 /**
  *
  * @author ASUS-PC
@@ -22,6 +24,9 @@ public class Proyectoseguridadgit {
         System.out.println("Hola ESCOM!!");
         int x;
         int[] vector;
+        
+        List<String> lista;
+        String nombre = "";
     }
     
 }
