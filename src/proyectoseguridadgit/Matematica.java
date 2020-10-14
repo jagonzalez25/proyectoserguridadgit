@@ -15,7 +15,18 @@ public class Matematica {
         return x + y;
     }
     
-    public void resitar(int x, int y) {
+    public void restar(int x, int y) {
         int resta = x - y;
     }
+    
+    public int muliplicar(int x, int y) {
+        return x * y;
+    }
+
+    
+    public int dividir(int x, int y) {
+        return x / y;
+    }
+    
+    
  }
