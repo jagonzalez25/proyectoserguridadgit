@@ -14,4 +14,8 @@ public class Matematica {
     public int sumar(int x, int y) {
         return x + y;
     }
-}
+    
+    public void resitar(int x, int y) {
+        int resta = x - y;
+    }
+ }
