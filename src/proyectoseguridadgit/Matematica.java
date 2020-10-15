@@ -28,5 +28,9 @@ public class Matematica {
         return x / y;
     }
     
+
+    public int dividir2(int x, int y) {
+        return x / y;
+    }
     
  }
