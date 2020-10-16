@@ -43,6 +43,8 @@ public class Matematica {
     }
 
     public int dividir5(int x, int y) {
+        int a;
+        System.out.println("");
         return x / y;
     }
     
