@@ -38,4 +38,13 @@ public class Matematica {
         return x / y;
     }
     
+    public int dividir4(int x, int y) {
+        return x / y;
+    }
+
+    public int dividir5(int x, int y) {
+        return x / y;
+    }
+    
+    
  }
