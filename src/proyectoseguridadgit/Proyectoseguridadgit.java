@@ -27,6 +27,8 @@ public class Proyectoseguridadgit {
         
         List<String> lista;
         String nombre = "";
+        
+        //Cambios desde servidor
     }
     
 }
