@@ -43,8 +43,10 @@ public class Matematica {
     }
 
     public int dividir5(int x, int y) {
+
         int z;
         Math.random();
+
         return x / y;
     }
     
