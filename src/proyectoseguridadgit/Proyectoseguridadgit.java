@@ -29,6 +29,13 @@ public class Proyectoseguridadgit {
         String nombre = "";
         
         //Cambios desde servidor
+        
+        //código local
+        //código local
+        //código local
+        //código local
+        //código local
+        //código local
     }
     
 }
