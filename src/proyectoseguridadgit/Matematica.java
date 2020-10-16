@@ -13,7 +13,8 @@ public class Matematica {
     
     public int sumar(int x, int y) {
         int w;
-        itn g;
+        int g;
+        int z;
         return x + y;
     }
     
