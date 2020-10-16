@@ -12,6 +12,7 @@ package proyectoseguridadgit;
 public class Matematica {
     
     public int sumar(int x, int y) {
+        int w;
         return x + y;
     }
     
