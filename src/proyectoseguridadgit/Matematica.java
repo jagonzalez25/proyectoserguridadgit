@@ -16,6 +16,7 @@ public class Matematica {
     }
     
     public void restar(int x, int y) {
+        int r;
         int resta = x - y;
     }
     
