@@ -66,5 +66,9 @@ public class Matematica {
     public int dividir8(int x, int y) {
         return x / y;
     }
+
+    public int dividir9(int x, int y) {
+        return x / y;
+    }
     
  }
