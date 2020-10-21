@@ -70,5 +70,14 @@ public class Matematica {
     public int dividir9(int x, int y) {
         return x / y;
     }
+
+    public int dividir10(int x, int y) {
+        return x / y;
+    }
+    
+    public int dividir11(int x, int y) {
+        return x / y;
+    }
+    
     
  }
