@@ -91,5 +91,11 @@ public class Matematica {
        public int dividir14(int x, int y) {
         return x / y;
     }
+       
+       public int dividir15(int x, int y) {
+        return x / y;
+        //cambios hecho para rama auxiliar
+    }
+       
 
  }
