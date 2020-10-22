@@ -97,5 +97,10 @@ public class Matematica {
         //cambios hecho para rama auxiliar
     }
        
+       public int dividir16(int x, int y) {
+        return x / y;
+        //cambios hecho para rama auxiliar
+    }
 
+       
  }
